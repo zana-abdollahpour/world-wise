@@ -71,6 +71,18 @@
         "lng": "10.72265625"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "New Haven",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-28T21:45:10.498Z",
+      "notes": "Yale is the best :(",
+      "position": {
+        "lat": "41.30618181697833",
+        "lng": "-72.92449951171876"
+      },
+      "id": 98443201
     }
   ]
 }
