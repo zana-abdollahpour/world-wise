@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import DatePicker from "react-datepicker";
 
 import { useURLPosition } from "../hooks/useURLPosition";
-import { useCities } from "../Contexts/CitiesContext";
+import { useCities } from "../contexts/CitiesContext";
 
 import Button from "./Button";
 import BackButton from "./BackButton";

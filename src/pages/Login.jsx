@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import { useNavigate } from "react-router-dom";
 
-import { useAuth } from "../Contexts/FakeAuthContext";
+import { useAuth } from "../contexts/FakeAuthContext";
 
 import PageNav from "../components/PageNav";
 import Button from "../components/Button";
